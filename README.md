@@ -4,3 +4,6 @@
 #### And in the last step, we process famous datasets and implement machine learning algorithms on them
 #### This project was carried out in collaboration with Dr. Mehdi Eslami and Engineer Pooria Ziarati
 #### https://github.com/Pooriazkh
+#### https://github.com/mahdieslaminet
+#### all the dataset and lectures are in our google drive :
+#### https://drive.google.com/drive/folders/1pkTXdHoCfTLFvzqBBKUe0NzgA8zTh76k?usp=sharing
