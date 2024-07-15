@@ -3,3 +3,4 @@
 #### In the next step, we will get to know the main Python libraries like numpy and pandas in a general way
 #### And in the last step, we process famous datasets and implement machine learning algorithms on them
 #### This project was carried out in collaboration with Dr. Mehdi Eslami and Engineer Pooria Ziarati
+#### https://github.com/Pooriazkh
