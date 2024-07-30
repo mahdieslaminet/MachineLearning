@@ -12,7 +12,7 @@
 #### Classification
 #### در قسمت ششم هم با الگوریتم KNN آشنا میشویم و با دیتاست KNN_Project_Data کار میکنیم :
 #### KNN Algorithm
-### در قسمت هفتم با یادگیری تقویتی یا Reinforcement Learning آشنا میشویم و به بررسی الگوریتم های آن و روش های تصمیم گیری میپردازیم:
+#### در قسمت هفتم با یادگیری تقویتی یا Reinforcement Learning آشنا میشویم و به بررسی الگوریتم های آن و روش های تصمیم گیری میپردازیم:
 #### ReinforcementLearning
 
 #### https://github.com/Pooriazkh
