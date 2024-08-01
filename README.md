@@ -20,5 +20,5 @@
 #### all the dataset and lectures are in our google drive :
 #### https://drive.google.com/drive/folders/1pkTXdHoCfTLFvzqBBKUe0NzgA8zTh76k?usp=sharing
 #### pooriaziarati144@gmail.com
-#### telegraID:
+#### telegrmaID:
 #### @PoooRIA313
